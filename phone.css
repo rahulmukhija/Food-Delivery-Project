@@ -30,7 +30,7 @@ padding: 20px;
 #home::before
 {
 height: 480px;
-width: 140%;
+width: 100%;
 }
 
 #home p{
